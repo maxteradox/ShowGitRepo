@@ -4,5 +4,6 @@ public class ShowGit_1 {
     System.out.println("ShowGit_1");
     System.out.println("Hallox!");
     System.out.println("Projekt-Version 1 Fertig.");
+    System.out.println("Schon gehts zur Version 2");
   }
 }
